@@ -42,4 +42,4 @@ Mediante la formula se puede concluir que, con un valor constante de Resistencia
 
 Si de la formula anterior se despeja el Voltaje tendríamos la siguiente ecuación:
 
-
+![](
