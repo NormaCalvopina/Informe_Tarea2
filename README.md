@@ -74,5 +74,9 @@ Por ejemplo, para calcular la corriente:
 
 Para obtener el voltaje de un circuito se utiliza la siguiente formula:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20133721.png)
+
+Ejemplo:
+
 
 
