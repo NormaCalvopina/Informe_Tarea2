@@ -94,4 +94,8 @@ Ejemplo:
 
 Es es la aplicación de razonamiento lógico combinado con un conocimiento completo de la operación de un circuito o sistema para corregir un funcionamiento defectuoso. El método básico de abordar la localización de fallas se compone de tres pasos: análisis, planificación, y medición. 
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20134354.png)
+
+## Energía y Potencia (Capitulo 4)
+
 
