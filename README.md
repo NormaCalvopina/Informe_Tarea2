@@ -58,6 +58,8 @@ Utilizando la formula de I=V/R. Siempre y cuando la corriente sea en amperes, el
 
 A continuación, un ejemplo:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20133226.png)
 
+#### UNIDADES CON PREFIJOS MÉTRICOS
 
 
