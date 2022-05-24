@@ -43,3 +43,7 @@ Mediante la formula se puede concluir que, con un valor constante de Resistencia
 Si de la formula anterior se despeja el Voltaje tendríamos la siguiente ecuación:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20132309.png)
+
+Y si se despeja la Resistencia se obtiene: 
+
+
