@@ -50,4 +50,14 @@ Y si se despeja la Resistencia se obtiene:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20132751.png)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20133016.png)
+
+#### CALCULO PARA LA CORRIENTE
+
+Utilizando la formula de I=V/R. Siempre y cuando la corriente sea en amperes, el voltaje en volts y la resistencia en ohms.
+
+A continuación, un ejemplo:
+
+
+
 
