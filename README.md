@@ -46,4 +46,6 @@ Si de la formula anterior se despeja el Voltaje tendr√≠amos la siguiente ecuaci√
 
 Y si se despeja la Resistencia se obtiene: 
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20132534.png)
+
 
