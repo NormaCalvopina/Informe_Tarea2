@@ -62,4 +62,10 @@ A continuación, un ejemplo:
 
 #### UNIDADES CON PREFIJOS MÉTRICOS
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20133352.png)
+
+Aplicando la tabla, las unidades pueden ir acompañadas por un prefijo que denota un múltiplo o un submúltiplo decimal de dicha unidad. 
+
+Por ejemplo, para calcular la corriente:
+
 
