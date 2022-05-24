@@ -19,6 +19,9 @@ Objetivos espescíficos:
 
 La Ley de Ohm es una formula donde se puede expresar la relación que hay entre la voltaje, corriente y resistencia en un circuito. Así pues, la corriente y el voltaje son linealmente proporcionales. Sin embargo, la corriente y la resistencia son inversamente proporcionales.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20134738.png)
+
+
 #### RELACION DE CORRIENTE, VOLTAJE Y RESISTENCIA
 
 
