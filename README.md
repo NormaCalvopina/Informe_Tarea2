@@ -352,4 +352,8 @@ El tercer foco está fundido
 
 6. Convierta las siguientes cantidades en kilowatts:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20172008.png)
+
+8. Convierta las siguientes cantidades en miliwatts:
+
 
