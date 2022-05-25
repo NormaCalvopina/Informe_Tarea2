@@ -223,4 +223,12 @@ Solución:
 
 Aplicando la Ley de Ohm conocemos la formula:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20121407.png)
+
+4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+
+Solución:
+
+Aplicando la Ley de Ohm conocemos la formula:
+
 
