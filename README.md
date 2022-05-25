@@ -252,4 +252,5 @@ La primera banda es Gris = 8
   = 8200Ω±5%
   = 8,2K Ω±5%
   
-  
+[](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20124339.png)
+
