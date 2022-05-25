@@ -158,4 +158,9 @@ R es la resistencia en ohms (Ω)
 
 Una expresión equivalente para potencia se obtiene, en función de voltaje y corriente:
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20232811.png)
+
+Donde P está en watts cuando V está en volts e I está en amperes. Sustituyendo I por V/R (ley de Ohm) se obtiene otra expresión equivalente.
+
+La siguiente formula se conoce como ley de Watt.
+
