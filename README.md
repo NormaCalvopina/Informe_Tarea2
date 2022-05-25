@@ -386,6 +386,10 @@ El tercer foco está fundido
 
 22. Si entre los extremos de un resistor de 680 Ω  existen 60 V, ¿cuál es la potencia?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20173106.png)
+
+24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
 
 
 
