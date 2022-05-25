@@ -215,4 +215,12 @@ Alta eficiencia significa que en la fuente de potencia se disipa muy poca potenc
 
 ## Resolucion de problemas capitulo 3 
 
+### Seccion 3-1 La relación de corriente, voltaje y resistencia
+
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos
+
+Solución:
+
+Aplicando la Ley de Ohm conocemos la formula:
+
 
