@@ -336,6 +336,8 @@ El reóstato debe ajustarse a más de 45Ω para que la corriente se limite a men
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20160759.png)
 
-La tercer foco está fundido
+El tercer foco está fundido
 
-## Resolucion de problemas capitulo 4
+### Resolución de problemas capitulo 4 
+
+
