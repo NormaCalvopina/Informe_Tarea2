@@ -396,6 +396,12 @@ El tercer foco está fundido
 
 26. Un resistor de 6.8 kΩ  se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20173428.png)
+
+### Seccion 4-4 Conversión de energía y caída de voltaje en una resistencia
+
+28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+
 
 
 
