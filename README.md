@@ -382,6 +382,10 @@ El tercer foco está fundido
 
 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20172930.png)
+
+22. Si entre los extremos de un resistor de 680 Ω  existen 60 V, ¿cuál es la potencia?
+
 
 
 
