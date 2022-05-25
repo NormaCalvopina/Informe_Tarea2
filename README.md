@@ -181,3 +181,11 @@ Es muy importante que cuando se utiliza un resistor en un circuito, su potencia 
 
 Los electrones fluyen por cada uno de los resistores que están conectados para formar una trayectoria para la corriente. A medida que los electrones fluyen por cada resistor, ceden algo de su energía en forma de calor. Por consiguiente, los electrones tienen más energía cuando entran a un resistor que cuando salen de él. Cuando los electrones han recorrido el circuito y regresan a la terminal positiva de la batería, están en su nivel de energía más bajo.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20233221.png)
+
+Recordando que el voltaje es igual a energía por carga (V = W/Q), y la carga es una propiedad de los electrones. Con base en el voltaje de la batería, cierta cantidad de energía es impartida a todos los electrones que salen de la terminal negativa. Igual cantidad de electrones fluye en cada punto por todo el circuito, pero su energía disminuye a medida que se mueven a través de la resistencia del circuito.
+
+#### FUENTES DE POTENCIA
+
+Una fuente de potencia es un dispositivo que suministra potencia a una carga.
+
