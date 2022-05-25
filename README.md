@@ -364,6 +364,10 @@ El tercer foco está fundido
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20172350.png)
+
+14. Convierta 〖5x10〗^6 watts-minutos en kWh.
+
 
 
 
