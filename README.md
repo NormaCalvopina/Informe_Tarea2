@@ -316,5 +316,11 @@ Se debe utilizar un fusible de menos de 2.5 A. Entonces se recomienda un fusible
 
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20151909.png)
+
+32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+Para encontrar el valor de la resistencia, utilizo la ley de ohm: R = V/I, el voltaje lo tengo en la batería de 12 V y la corriente la obtenemos midiendo con el amperímetro, reemplazando los valores en la fórmula, obtenemos el valor de esa resistencia.
+
 
 
