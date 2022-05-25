@@ -338,6 +338,10 @@ El reóstato debe ajustarse a más de 45Ω para que la corriente se limite a men
 
 El tercer foco está fundido
 
-### Resolución de problemas capitulo 4 
+## Resolución de problemas capitulo 4 
+
+### Seccion 4-1 Energía y Potencia
+
+2. Demuestre que hay  〖3.6x10〗^6 joules en un kilowatt-hora
 
 
