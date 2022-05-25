@@ -211,4 +211,8 @@ La potencia de salida siempre es menor que la de entrada porque una parte de la 
 
 Alta eficiencia significa que en la fuente de potencia se disipa muy poca potencia, y que existe una proporción más alta de potencia de salida con determinada potencia de entrada.
 
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+## Resolucion de problemas capitulo 3 
+
 
