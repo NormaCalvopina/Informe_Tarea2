@@ -260,4 +260,6 @@ La primera banda es Gris = 8
 
 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20124936.png)
+
 
