@@ -114,3 +114,18 @@ Es la relación de paso de energía de un flujo por unidad de tiempo; es decir, 
 
 Potencia (P) es cierta cantidad de energía (W) utilizada en cierto tiempo (t) y expresada como sigue:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20232018.png)
+
+
+Donde: P es la potencia y se mide en watts (W)
+
+W es la energía en joules (J) 
+
+t es el tiempo en segundos (s)
+
+Un watt (W) es la cantidad de potencia cuando se utiliza un joule en un segundo.
+
+A continuación, un ejemplo:
+
+Se utiliza una cantidad de energía igual a 150 J en 5 s. ¿Cuál es la potencia en watts?
+
