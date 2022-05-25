@@ -203,4 +203,8 @@ Los ampere-hora nominales significan que la batería puede suministrar un promed
 
 Eficiencia es la relación de la potencia de salida suministrada a una carga respecto de potencia de entrada al circuito.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20233748.png)
+
+La potencia de salida siempre es menor que la de entrada porque una parte de la potencia total debe ser utilizada internamente para operar los circuitos de la fuente de potencia. A esta disipación de potencia interna se le llama normalmente pérdida de potencia. La potencia de salida es la potencia de entrada menos la pérdida de potencia.
+
 
