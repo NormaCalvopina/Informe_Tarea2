@@ -348,4 +348,8 @@ El tercer foco está fundido
 
 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20171830.png)
+
+6. Convierta las siguientes cantidades en kilowatts:
+
 
