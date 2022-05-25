@@ -101,9 +101,16 @@ Es es la aplicación de razonamiento lógico combinado con un conocimiento compl
 
 ## Energía y Potencia (Capitulo 4)
 
-#### Energía
+####  ENERGIA
+
 
 Es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se utiliza la energía.
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20231614.png)
+
+#### POTENCIA
+
+Es la relación de paso de energía de un flujo por unidad de tiempo; es decir, la cantidad de energía entregada o absorbida por un elemento en un tiempo determinado.
+
+Potencia (P) es cierta cantidad de energía (W) utilizada en cierto tiempo (t) y expresada como sigue:
 
