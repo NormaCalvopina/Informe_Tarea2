@@ -274,4 +274,11 @@ Solución: El circuito que tiene más corriente es el del literal c. Mientras qu
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20140630.png)
 
+### Seccion 3-2 Calculo de la Corriente
+
+16. Determine la corriente en cada caso:
+
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20142127.png)
+
+18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor
 
