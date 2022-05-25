@@ -322,5 +322,9 @@ Se debe utilizar un fusible de menos de 2.5 A. Entonces se recomienda un fusible
 
 Para encontrar el valor de la resistencia, utilizo la ley de ohm: R = V/I, el voltaje lo tengo en la batería de 12 V y la corriente la obtenemos midiendo con el amperímetro, reemplazando los valores en la fórmula, obtenemos el valor de esa resistencia.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20160023.png)
+
+34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.
+
 
 
