@@ -368,6 +368,10 @@ El tercer foco está fundido
 
 14. Convierta 〖5x10〗^6 watts-minutos en kWh.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20172350.png)
+
+16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
+
 
 
 
