@@ -129,3 +129,11 @@ A continuación, un ejemplo:
 
 Se utiliza una cantidad de energía igual a 150 J en 5 s. ¿Cuál es la potencia en watts?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20232225.png)
+
+#### LA UNIDAD DE ENERGIA KILOWATTS-HORA (kWh)
+
+La unidad de energía es el joule. Sin embargo, existe otra forma de expresar la energía.
+
+Dado que la potencia se expresa en watts y el tiempo en segundos, se pueden utilizar unidades de energía llamadas watt-segundo (Ws), watt-hora (Wh), y kilowatt-hora (kWh)
+
