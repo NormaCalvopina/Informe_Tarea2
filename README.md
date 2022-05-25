@@ -235,4 +235,21 @@ Aplicando la Ley de Ohm conocemos la formula:
 
 6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20124106.png)
 
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro
+
+Solución:
+
+La primera banda es Gris = 8
+
+ la segunda es Rojo = 2
+ 
+ la tercera es Rojo = 2ceros
+ 
+  y la cuarta es Oro = tolerancia del 5%
+  
+  = 8200Ω±5%
+  = 8,2K Ω±5%
+  
+  
