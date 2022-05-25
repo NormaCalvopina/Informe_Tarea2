@@ -164,3 +164,20 @@ Donde P está en watts cuando V está en volts e I está en amperes. Sustituyend
 
 La siguiente formula se conoce como ley de Watt.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20233006.png)
+
+
+#### POTENCIA NOMINAL EN RESISTORES
+
+Recordemos que, el resistor disipa calor cuando a través de él circula una corriente. El límite de la cantidad de calor que un resistor puede disipar está especificado por su potencia nominal.
+
+La potencia nominal es la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo. 
+
+La potencia nominal no está relacionada con el valor óhmico (resistencia), sino más bien está determinada principalmente por la composición física, el tamaño y la forma del resistor.
+
+Es muy importante que cuando se utiliza un resistor en un circuito, su potencia nominal debe ser mayor que la potencia máxima que deberá manejar.
+
+#### CONVERSIÓN DE ENERGIA Y CAIDA DE VOLTAJE EN UNA RESISTENCIA
+
+Los electrones fluyen por cada uno de los resistores que están conectados para formar una trayectoria para la corriente. A medida que los electrones fluyen por cada resistor, ceden algo de su energía en forma de calor. Por consiguiente, los electrones tienen más energía cuando entran a un resistor que cuando salen de él. Cuando los electrones han recorrido el circuito y regresan a la terminal positiva de la batería, están en su nivel de energía más bajo.
+
