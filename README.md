@@ -231,4 +231,8 @@ Solución:
 
 Aplicando la Ley de Ohm conocemos la formula:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20123834.png)
+
+6. En cierto circuito, I = 5 mA cuando V = 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito
+
 
