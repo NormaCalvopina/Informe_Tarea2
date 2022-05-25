@@ -412,6 +412,6 @@ El tercer foco está fundido
 
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
-
+![](
 
 
