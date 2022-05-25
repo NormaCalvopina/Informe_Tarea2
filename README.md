@@ -6,10 +6,15 @@
 
 Objetivo general:
 
+Conocer los conceptos generales de resistencia, corriente, voltaje, potencia y energía mediante la lectura y comprensión del capitulo 3 y 4 del libro de Floyd “Principios de Circuitos Eléctricos”, para luego resolver los problemas planteados en los dos capítulos.
 
 Objetivos espescíficos:
 
+Aprender a calcular la resistencia, corriente y voltaje aplicando la Ley de Ohm
 
+Analizar la relación que existe entre la corriente - voltaje y corriente - resistencia
+
+Conocer la utilidad de la potencia y energía en los circuitos eléctricos.
 
 
 2. MARCO TEORICO
@@ -419,6 +424,25 @@ El tercer foco está fundido
 ![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20174157.png)
 
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20174311.png)
+
+4. CONCLUSIONES
+
+Mediante la Ley de Ohm se reconoció la relación que existe entre corriente, voltaje y resistencia. Una vez analizado este concepto se observó la existencia de estas tres cantidades en un circuito eléctrico y da por resultado la cuarta cantidad básica conocida como potencia. Existe una relación específica entre potencia e I, V y R.
+
+Se aprendió la Ley de Ohm y acerca de cómo utilizarla para resolver problemas de circuito.
+
+Se comprendió la aplicación de la Ley de Ohm para calcular el voltaje, corriente y resistencia. 
+
+Se debe evaluar la clasificación de potencia de cada resistencia y, si no es suficiente, se debe reemplazar la resistencia por una que tenga la adecuada capacidad de potencia.
+
+Se conoció un método general para abordar la localización de fallas que consiste en analizar, planificar y medir.
+
+5. VIDEO
+
+6. BIBLIOGRAFIA
+
 
 
 
