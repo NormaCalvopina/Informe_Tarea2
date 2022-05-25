@@ -326,5 +326,11 @@ Para encontrar el valor de la resistencia, utilizo la ley de ohm: R = V/I, el vo
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20160306.png)
+
+El reóstato debe ajustarse a más de 45Ω para que la corriente se limite a menos de 2A
+
+### Seccion 3–5 Introducción a la localización de fallas
+
 
 
