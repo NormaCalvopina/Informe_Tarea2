@@ -332,5 +332,10 @@ El reóstato debe ajustarse a más de 45Ω para que la corriente se limite a men
 
 ### Seccion 3–5 Introducción a la localización de fallas
 
+36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20160759.png)
 
+La tercer foco está fundido
+
+## Resolucion de problemas capitulo 4
