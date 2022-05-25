@@ -372,6 +372,12 @@ El tercer foco está fundido
 
 16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20172648.png)
+
+### Seccion 4-2 Potencia en un circuito eléctrico
+
+18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
 
 
 
