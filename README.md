@@ -146,3 +146,15 @@ Cuando circula corriente a través de una resistencia, las colisiones de los ele
 
 En un circuito eléctrico, la cantidad de potencia disipada depende de la cantidad de resistencia y de corriente, lo cual se expresa como sigue:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20232616.png)
+
+Donde: 
+
+P es la potencia en watts (W) 
+
+I es la corriente en amperes (A)
+
+R es la resistencia en ohms (Ω)
+
+Una expresión equivalente para potencia se obtiene, en función de voltaje y corriente:
+
