@@ -207,4 +207,8 @@ Eficiencia es la relación de la potencia de salida suministrada a una carga res
 
 La potencia de salida siempre es menor que la de entrada porque una parte de la potencia total debe ser utilizada internamente para operar los circuitos de la fuente de potencia. A esta disipación de potencia interna se le llama normalmente pérdida de potencia. La potencia de salida es la potencia de entrada menos la pérdida de potencia.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20233804.png)
+
+Alta eficiencia significa que en la fuente de potencia se disipa muy poca potencia, y que existe una proporción más alta de potencia de salida con determinada potencia de entrada.
+
 
