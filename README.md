@@ -272,5 +272,6 @@ Solución: El circuito que tiene más corriente es el del literal c. Mientras qu
 
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20140630.png)
 
 
