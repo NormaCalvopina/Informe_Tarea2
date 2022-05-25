@@ -344,4 +344,6 @@ El tercer foco está fundido
 
 2. Demuestre que hay  〖3.6x10〗^6 joules en un kilowatt-hora
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20171417.png)
+
 
