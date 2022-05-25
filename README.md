@@ -101,4 +101,9 @@ Es es la aplicación de razonamiento lógico combinado con un conocimiento compl
 
 ## Energía y Potencia (Capitulo 4)
 
+#### Energía
+
+Es la capacidad de realizar trabajo, y potencia es la razón de cambio a la cual se utiliza la energía.
+
+![](
 
