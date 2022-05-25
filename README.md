@@ -189,3 +189,18 @@ Recordando que el voltaje es igual a energía por carga (V = W/Q), y la carga es
 
 Una fuente de potencia es un dispositivo que suministra potencia a una carga.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20233519.png)
+
+La carga puede ser cualquier cosa desde un foco hasta una computadora. La fuente de potencia produce un voltaje a través de sus dos terminales de salida y suministra corriente a través de la carga.
+
+#### AMPERES – HORA NOMINALES DE BATERIAS
+
+Los amperes-hora nominales determinan el tiempo durante el cual una batería puede suministrar cierta cantidad de corriente promedio hacia una carga a voltaje nominal.
+
+Los ampere-hora nominales significan que la batería puede suministrar un promedio de un ampere de corriente hacia una carga durante una hora con la salida de voltaje nominal. Esta misma batería puede suministrar un promedio de dos amperes durante media hora. Mientras más corriente debe suministrar la batería, más corta es su duración.
+
+#### EFICIENCIA DE UNA FUENTE DE POTENCIA
+
+Eficiencia es la relación de la potencia de salida suministrada a una carga respecto de potencia de entrada al circuito.
+
+
