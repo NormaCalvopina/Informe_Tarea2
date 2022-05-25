@@ -306,4 +306,11 @@ Se debe utilizar un fusible de menos de 2.5 A. Entonces se recomienda un fusible
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20150947.png)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20151154.png)
+
+### Seccion 3-4 Calculo de la resistencia
+
+28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+
+
 
