@@ -300,4 +300,7 @@ Se debe utilizar un fusible de menos de 2.5 A. Entonces se recomienda un fusible
 
 24. Calcule el voltaje para cada valor de I y R:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20150420.png)
+
+26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 
