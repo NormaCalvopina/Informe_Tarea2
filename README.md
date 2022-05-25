@@ -137,3 +137,12 @@ La unidad de energía es el joule. Sin embargo, existe otra forma de expresar la
 
 Dado que la potencia se expresa en watts y el tiempo en segundos, se pueden utilizar unidades de energía llamadas watt-segundo (Ws), watt-hora (Wh), y kilowatt-hora (kWh)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-24%20232423.png)
+
+
+#### POTENCIA EN UN CIRCUITO ELÉCTRICO 
+
+Cuando circula corriente a través de una resistencia, las colisiones de los electrones producen calor a consecuencia de la conversión de la energía eléctrica.
+
+En un circuito eléctrico, la cantidad de potencia disipada depende de la cantidad de resistencia y de corriente, lo cual se expresa como sigue:
+
