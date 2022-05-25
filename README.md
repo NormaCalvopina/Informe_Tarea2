@@ -292,4 +292,12 @@ Solución: El circuito que tiene más corriente es el del literal c. Mientras qu
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20145136.png)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20145327.png)
+
+Se debe utilizar un fusible de menos de 2.5 A. Entonces se recomienda un fusible de 2A
+
+### Seccion 3-3 Calculo de voltaje
+
+24. Calcule el voltaje para cada valor de I y R:
+
 
