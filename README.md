@@ -158,3 +158,4 @@ R es la resistencia en ohms (Ω)
 
 Una expresión equivalente para potencia se obtiene, en función de voltaje y corriente:
 
+![](
