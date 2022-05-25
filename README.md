@@ -312,5 +312,9 @@ Se debe utilizar un fusible de menos de 2.5 A. Entonces se recomienda un fusible
 
 28. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea2/blob/main/Fotos/Captura%20de%20pantalla%202022-05-25%20151515.png)
+
+30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
 
 
