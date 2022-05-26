@@ -441,6 +441,9 @@ Se conoció un método general para abordar la localización de fallas que consi
 
 5. VIDEO
 
+https://youtu.be/1DD2_zCfmzs
+
+
 6. BIBLIOGRAFIA
 
 Floyd, T. (2007). Principios de circuitos electricos. México: Pearson Educación. Serway
